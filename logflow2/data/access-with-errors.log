@@ -1,0 +1,7 @@
+85.105.14.9 - - [29/Sep/2026:10:00:00 +0300] "GET / HTTP/1.1" 200 16169 "-" "Mozilla/5.0"
+bu bir log satiri degil
+10.0.0.5 - - [29/Sep/2026:10:00:07 +0300] "GET /products?id=42 HTTP/1.1" 200 38818 "-" "curl/8.4.0"
+
+192.168.1.10 - - [31/Foo/2026:10:00:14 +0300] "GET /index.html HTTP/1.1" 200 15367 "-" "Googlebot/2.1"
+198.51.100.23 - - [29/Sep/2026:10:00:21 +0300] "GET /about HTTP/1.1" abc 47045 "-" "Googlebot/2.1"
+203.0.113.7 - - [29/Sep/2026:10:00:28 +0300] "GET /login HTTP/1.1" 404 - "-" "Mozilla/5.0 (X11; Linux x86_64)"
